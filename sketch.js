@@ -48,7 +48,7 @@ function setup()
     spaceship = createSprite(100,200,30,30);
     spaceship.addImage(spaceshipImage);
     spaceship.scale=0.4;
-    spaceship.debug=true;
+   
      
   
    
